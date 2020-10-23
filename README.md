@@ -3,7 +3,7 @@ The project aim consisted to implement a Finite State Machine defining a VHDL co
 
 - Digital Logic Design course, Politecnico di Milano;
 - Prof. Gianluca Palermo
-- GPA : 30/30 cum laude
+- Grade : 30/30 cum laude
 
 # Progetto di Reti Logiche 2019/2020
 L'obiettivo del progetto consisteva nell'implementare una Macchina a Stati Finiti definendo un componente in VHDL capace di simulare la codifica Working-Zone descritta da E. Musoll, T. Lang and J. Cortadella.
